@@ -1,4 +1,5 @@
 banana 
-maça
 tomate 
 melancia
+mamão
+uva
